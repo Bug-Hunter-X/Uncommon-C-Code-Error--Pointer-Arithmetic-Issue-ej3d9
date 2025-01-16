@@ -1,0 +1,1 @@
+This repository contains a simple C program that illustrates a common but subtle error involving pointer arithmetic. The bug.c file showcases the erroneous code, leading to potential undefined behavior. The bugSolution.c file provides a corrected version with explanations and best practices to avoid this type of error.
