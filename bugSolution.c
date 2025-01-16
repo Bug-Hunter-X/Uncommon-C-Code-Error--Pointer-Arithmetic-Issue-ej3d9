@@ -1,0 +1,1 @@
+int main() { int x = 10; int *ptr = &x; // Ensure the pointer points to valid memory. *ptr = 20; // Modify the value pointed by the pointer. printf("%d\n", x); // Print the modified value. return 0;} 
